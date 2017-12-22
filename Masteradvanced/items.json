@@ -1,0 +1,56 @@
+{
+    "Basic's VIPS'" : {
+        "name":"Basics VIPS",
+        "type":"Role",
+        "price":"5000",
+        "desc":"Basic Bot Vip"
+},
+"Developers" : {
+    "name":"Developers",
+    "type":"Role",
+    "price":"10000000",
+    "desc":"Only on certain sERVERS"
+},
+"Blue" : {
+    "name":"Blue",
+    "type":"Role",
+    "price":"0",
+    "desc":"Colour Only For some servers"
+},
+"Yellow" : {
+    "name":"Yellow",
+    "type":"Role",
+    "price":"0",
+    "desc":"Yellow Colour|| Only For some servers"
+},
+"Green" : {
+    "name":"Green",
+    "type":"Role",
+    "price":"0",
+    "desc":"Green Colour || Only For some servers"
+},
+"Gold" : {
+    "name":"Gold",
+    "type":"Role",
+    "price":"0",
+    "desc":"Gold Colour|| Only For some servers"
+},
+"Red" : {
+    "name":"Red",
+    "type":"Role",
+    "price":"0",
+    "desc":"Red Colour || Only For some servers"
+},
+"Administrator" : {
+    "name":"Administrator",
+    "type":"Role",
+    "price":"10000000000000000000000",
+    "desc":"Admin Role|| Only!"
+},
+"Waifu Material" : {
+    "name":"Waifu Material",
+    "type":"Role",
+    "price":"10000000000000000000000000",
+    "desc":"Admin Role|| Only!"
+}
+}
